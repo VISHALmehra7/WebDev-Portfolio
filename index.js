@@ -30,6 +30,15 @@ const PORTFOLIO_DATA = [
     site: "dynamic",
   },
   {
+    image: "./airesume.png",
+    liveLink: "https://ai-resume-analyser-l0cm.onrender.com",
+    githubLink: "https://github.com/VISHALmehra7/AI-Resume-Analyser",
+    heading: "MERN AI Resume Analyser",
+    description:
+      "Developed a MERN-based AI Resume Analyzer featuring resume parsing, ATS scoring, and skill gap analysis.Implemented Cloudinary integration and AI-powered resume assistance using RAG..</",
+    site: "dynamic",
+  },
+  {
     image: "./Chat_App.png",
     liveLink: "https://mern-chat-app-xgqy.onrender.com/login",
     githubLink: "https://github.com/VISHALmehra7/mern-chat-app",
@@ -38,6 +47,7 @@ const PORTFOLIO_DATA = [
       "Built a real-time chat application using the MERN stack with live messaging, user authentication, and state management for a responsive and interactive user experience.</",
     site: "dynamic",
   },
+  
   {
     image: "./Blog_Website.jpg",
     liveLink: "",
